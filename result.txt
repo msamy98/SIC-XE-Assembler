@@ -1,0 +1,8 @@
+Line no.            Address             Label               Op-Code             Operands            
+1                   0000                BGN                 START               0000                
+2                   0000                                    ORG                 BGN+1               
+3                   0001                                    LDA                 #3                  
+4                   0004                                    END                                     
+-----------------------------------------------------------------------
+Symbol              Address             Type                
+BGN                 0                   relocatable         

@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1557918718 source:f:\college\csed2nd\2nd term\systems\assembler\main.cpp
+	<iostream>
+	<algorithm>
+	<unordered_map>
+	"TargetAddress.h"
+	<string>
+	<iterator>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	"ObjectProgramHandler.h"
+	"Pass2.h"
+	<fstream>
+	<iomanip>
+	<sstream>
+	"Parser.h"
+	<regex>
+
+1557892531 f:\college\csed2nd\2nd term\systems\assembler\include\targetaddress.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	"symbolTable.h"
+
+1557892518 f:\college\csed2nd\2nd term\systems\assembler\include\symboltable.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892459 f:\college\csed2nd\2nd term\systems\assembler\include\operationtable.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892430 f:\college\csed2nd\2nd term\systems\assembler\include\directives.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892481 f:\college\csed2nd\2nd term\systems\assembler\include\objectprogramhandler.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1557892602 f:\college\csed2nd\2nd term\systems\assembler\include\pass2.h
+	<iostream>
+	<algorithm>
+	<string>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	<vector>
+
+1557892493 f:\college\csed2nd\2nd term\systems\assembler\include\parser.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+
+1557892271 source:f:\college\csed2nd\2nd term\systems\assembler\src\directives.cpp
+	"directives.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892297 source:f:\college\csed2nd\2nd term\systems\assembler\src\flagbits.cpp
+	"FlagBits.h"
+	<regex>
+
+1557892448 f:\college\csed2nd\2nd term\systems\assembler\include\flagbits.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<unordered_map>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+
+1557892336 source:f:\college\csed2nd\2nd term\systems\assembler\src\objectprogramhandler.cpp
+	"ObjectProgramHandler.h"
+	<iostream>
+	<vector>
+	<unordered_map>
+	<fstream>
+	<sstream>
+	"ObjectProgramHandler.h"
+
+1557892306 source:f:\college\csed2nd\2nd term\systems\assembler\src\operationtable.cpp
+	"operationTable.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892322 source:f:\college\csed2nd\2nd term\systems\assembler\src\parser.cpp
+	<iostream>
+	<vector>
+	<regex>
+	"Parser.h"
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	<string>
+
+1557916735 source:f:\college\csed2nd\2nd term\systems\assembler\src\pass2.cpp
+	"Pass2.h"
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	"FlagBits.h"
+	"TargetAddress.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<unordered_map>
+	<string>
+	<iterator>
+	<regex>
+
+1557892362 source:f:\college\csed2nd\2nd term\systems\assembler\src\symboltable.cpp
+	"symbolTable.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892371 source:f:\college\csed2nd\2nd term\systems\assembler\src\targetaddress.cpp
+	"TargetAddress.h"
+	"symbolTable.h"
+	<regex>
+	<string>
+	<unordered_map>
+	<iterator>
+	<iostream>
+	<algorithm>
+	<sstream>
+	<fstream>
+
+1557892272 source:m:\college\csed2nd\2nd term\systems\assembler\src\directives.cpp
+	"directives.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892432 m:\college\csed2nd\2nd term\systems\assembler\include\directives.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892298 source:m:\college\csed2nd\2nd term\systems\assembler\src\flagbits.cpp
+	"FlagBits.h"
+	<regex>
+
+1557892450 m:\college\csed2nd\2nd term\systems\assembler\include\flagbits.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<unordered_map>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+
+1557892460 m:\college\csed2nd\2nd term\systems\assembler\include\operationtable.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892520 m:\college\csed2nd\2nd term\systems\assembler\include\symboltable.h
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892338 source:m:\college\csed2nd\2nd term\systems\assembler\src\objectprogramhandler.cpp
+	"ObjectProgramHandler.h"
+	<iostream>
+	<vector>
+	<unordered_map>
+	<fstream>
+	<sstream>
+	"ObjectProgramHandler.h"
+
+1557892482 m:\college\csed2nd\2nd term\systems\assembler\include\objectprogramhandler.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1557892308 source:m:\college\csed2nd\2nd term\systems\assembler\src\operationtable.cpp
+	"operationTable.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892324 source:m:\college\csed2nd\2nd term\systems\assembler\src\parser.cpp
+	<iostream>
+	<vector>
+	<regex>
+	"Parser.h"
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	<string>
+
+1557892494 m:\college\csed2nd\2nd term\systems\assembler\include\parser.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+
+1557916736 source:m:\college\csed2nd\2nd term\systems\assembler\src\pass2.cpp
+	"Pass2.h"
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	"FlagBits.h"
+	"TargetAddress.h"
+	<iomanip>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<unordered_map>
+	<string>
+	<iterator>
+	<regex>
+
+1557892604 m:\college\csed2nd\2nd term\systems\assembler\include\pass2.h
+	<iostream>
+	<algorithm>
+	<string>
+	"operationTable.h"
+	"directives.h"
+	"symbolTable.h"
+	<vector>
+
+1557892532 m:\college\csed2nd\2nd term\systems\assembler\include\targetaddress.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	"symbolTable.h"
+
+1557892364 source:m:\college\csed2nd\2nd term\systems\assembler\src\symboltable.cpp
+	"symbolTable.h"
+	<iostream>
+	<algorithm>
+	<string>
+	<unordered_map>
+
+1557892372 source:m:\college\csed2nd\2nd term\systems\assembler\src\targetaddress.cpp
+	"TargetAddress.h"
+	"symbolTable.h"
+	<regex>
+	<string>
+	<unordered_map>
+	<iterator>
+	<iostream>
+	<algorithm>
+	<sstream>
+	<fstream>
+
